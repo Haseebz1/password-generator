@@ -35,3 +35,13 @@ Create an webapp which lets user specify creteria for password, user can specify
 can opt for lower, uper, number and special characters. After going through all the prompts password is generated.
 ```
 
+
+## GitHub Link
+https://github.com/Haseebz1/password-generator.git
+
+## Deployed Link
+https://haseebz1.github.io/password-generator/
+
+## Screenshot
+![Portfolio Image](./assets/Solution.png)
+
